@@ -36,7 +36,7 @@
 
   /* ---------- WhatsApp helper ---------- */
   function waLink(text) {
-    return 'https://wa.me/' + (CFG.whatsappNumber || '917093351073') + (text ? '?text=' + encodeURIComponent(text) : '');
+    return 'https://wa.me/' + (CFG.whatsappNumber || '919110711973') + (text ? '?text=' + encodeURIComponent(text) : '');
   }
 
   /* ==========================================================
