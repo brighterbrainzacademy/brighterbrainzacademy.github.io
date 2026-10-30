@@ -3,7 +3,7 @@
    ========================================================== */
 window.BB_CONFIG = {
   // WhatsApp number in international format, digits only.
-  whatsappNumber: "917093351073",
+  whatsappNumber: "919110711973",
 
   instagramUrl: "https://www.instagram.com/brighter_brainz/",
   youtubeChannelUrl: "https://www.youtube.com/@brighterbrainzz",
